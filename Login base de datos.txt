@@ -1,0 +1,4 @@
+Login base de datos:
+
+user: root
+password: 1234
